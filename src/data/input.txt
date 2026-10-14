@@ -1,0 +1,4 @@
+
+Python is easy to learn.
+File handling helps us store data.
+We can read and write files using Python.
